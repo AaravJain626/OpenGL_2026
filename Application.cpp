@@ -24,7 +24,7 @@ int main(void)
     {
         /* Render here */
         glBegin(GL_TRIANGLES);
-        glColor3f(0.4f, 0.2f, 0.8f); //makes triangle purplish and makes  fme happy
+        glColor3f(0.4f, 0.2f, 0.8f); //makes triangle purplish and makes me happy
         glClear(GL_COLOR_BUFFER_BIT);
         glVertex2f(-0.5f,-0.5f);
         glVertex2f(0.0f, 0.5f);
